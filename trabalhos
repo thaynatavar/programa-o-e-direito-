@@ -17,3 +17,22 @@ Conceito: Informação é o produto do processamento e organização de dados de
 Banco de Dados
 Conceito: Um banco de dados é um sistema estruturado de armazenamento que facilita a inserção, atualização, exclusão e consulta de dados de maneira eficiente.
 Referência: [Database System Concepts](https://www.db-book.com/)
+Neutralidade de Rede
+Conceito: Neutralidade de rede é o princípio que assegura que todos os dados na internet sejam tratados de maneira igual, sem discriminação ou preferência, independentemente de seu conteúdo, origem ou destino.
+ [Net Neutrality: A Guide to the Debate](https://www.cfr.org/backgrounder/net-neutrality-guide-debate)
+
+Processo de Negócios
+Conceito: Processo de negócios é uma série de atividades ou tarefas estruturadas realizadas por uma organização para alcançar um objetivo específico, como a produção de um produto ou a entrega de um serviço.
+ [Business Process Management](https://www.springer.com/gp/book/9783662565290)
+
+ Memória (Computação)
+Conceito: Na computação, memória refere-se ao componente do sistema que armazena dados temporariamente para acesso rápido, facilitando a execução de programas e o processamento de informações.
+ [Computer Organization and Design](https://www.elsevier.com/books/computer-organization-and-design/mips-edition/9780124077263)
+
+ Variável (Computação)
+Conceito: Uma variável em computação é um símbolo ou nome que armazena um valor, permitindo que esse valor seja utilizado e manipulado durante a execução de um programa.
+ [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
+
+Jurimetria
+Conceito: Jurimetria é o uso de métodos estatísticos e matemáticos para analisar e prever o comportamento de sistemas jurídicos, buscando maior eficiência e precisão na aplicação do direito.
+[Quantitative Legal Prediction](https://link.springer.com/book/10.1007/978-3-319-55186-3)
