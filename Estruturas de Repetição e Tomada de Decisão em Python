@@ -6,7 +6,6 @@ Exemplo com for
 A estrutura for é comumente usada para iterar sobre uma sequência (como uma lista, tupla ou intervalo).
 
 python
-Copiar código
 # Exemplo com a estrutura de repetição 'for'
 for i in range(5):
     print(f"Iteração número {i}")
@@ -16,7 +15,6 @@ Exemplo com while
 A estrutura while continua a executar o bloco de código enquanto a condição especificada for verdadeira.
 
 python
-Copiar código
 # Exemplo com a estrutura de repetição 'while'
 contador = 0
 while contador < 5:
@@ -29,7 +27,6 @@ As estruturas de tomada de decisão em Python permitem que você execute diferen
 
 Exemplo de Estrutura de Decisão
 python
-Copiar código
 # Exemplo com a estrutura de decisão 'if', 'elif', 'else'
 numero = 10
 
@@ -45,7 +42,6 @@ Exemplo Combinado de Repetição e Decisão
 Podemos combinar estruturas de repetição e decisão para criar programas mais complexos. Veja o exemplo a seguir, onde iteramos sobre uma lista de números e usamos uma estrutura de decisão para classificar cada número.
 
 python
-Copiar código
 # Exemplo combinado de repetição e decisão
 numeros = [10, -5, 0, 7, -3]
 
