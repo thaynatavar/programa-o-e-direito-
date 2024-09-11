@@ -1,0 +1,60 @@
+Estruturas de Repetição e Tomada de Decisão em Python
+Estrutura de Repetição
+Em Python, podemos usar duas principais estruturas de repetição: for e while. Ambas permitem que você execute um bloco de código várias vezes.
+
+Exemplo com for
+A estrutura for é comumente usada para iterar sobre uma sequência (como uma lista, tupla ou intervalo).
+
+python
+Copiar código
+# Exemplo com a estrutura de repetição 'for'
+for i in range(5):
+    print(f"Iteração número {i}")
+Neste exemplo, o loop for itera 5 vezes, onde a função range(5) gera uma sequência de números de 0 a 4. Em cada iteração, o valor de i é impresso na tela.
+
+Exemplo com while
+A estrutura while continua a executar o bloco de código enquanto a condição especificada for verdadeira.
+
+python
+Copiar código
+# Exemplo com a estrutura de repetição 'while'
+contador = 0
+while contador < 5:
+    print(f"Contador é {contador}")
+    contador += 1
+Aqui, o loop while executa enquanto a variável contador for menor que 5. Em cada iteração, o valor do contador é incrementado e impresso.
+
+Estrutura de Tomada de Decisão
+As estruturas de tomada de decisão em Python permitem que você execute diferentes blocos de código com base em condições específicas. Isso é feito usando if, elif e else.
+
+Exemplo de Estrutura de Decisão
+python
+Copiar código
+# Exemplo com a estrutura de decisão 'if', 'elif', 'else'
+numero = 10
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+Neste código, o programa verifica se o número é maior que zero, menor que zero, ou igual a zero, e imprime uma mensagem correspondente com base na condição que é verdadeira.
+
+Exemplo Combinado de Repetição e Decisão
+Podemos combinar estruturas de repetição e decisão para criar programas mais complexos. Veja o exemplo a seguir, onde iteramos sobre uma lista de números e usamos uma estrutura de decisão para classificar cada número.
+
+python
+Copiar código
+# Exemplo combinado de repetição e decisão
+numeros = [10, -5, 0, 7, -3]
+
+for numero in numeros:
+    if numero > 0:
+        print(f"O número {numero} é positivo.")
+    elif numero < 0:
+        print(f"O número {numero} é negativo.")
+    else:
+        print(f"O número {numero} é zero.")
+Neste exemplo, o for itera sobre uma lista de números e, para cada número, a estrutura de decisão determina se o número é positivo, negativo ou zero e imprime uma mensagem apropriada.
+
